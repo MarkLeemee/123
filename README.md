@@ -1,6 +1,6 @@
 # 123 BB changed --> BB local ->> init BB Changed
 
-second nothing
+nothing second BB
 123
 ~@#@#@#@
 12312321321
