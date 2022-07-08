@@ -6,7 +6,7 @@ nothing second BB
 12312321321
 last BBlast BBlast BBlast BB
 
-<<<<<<< HEAD
+GELEL
 last endAA
 lalalalast AA
 
