@@ -9,6 +9,5 @@ last BBlast BBlast BBlast BB
 <<<<<<< HEAD
 last endAA
 lalalalast AA
-=======
-last BB
->>>>>>> 749f415 (last BB)
+
+modal
